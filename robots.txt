@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://info-codigo-sintetico.specsolid.com/sitemap.xml
