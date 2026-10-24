@@ -11,7 +11,7 @@ Autor-editor: Sergio Perez Ruiz · Lima, Perú · Primera edición, agosto de 20
 - Hecho el Depósito Legal en la Biblioteca Nacional del Perú N.º 2026-09631
 
 Este repositorio aloja la página web de la obra y su edición digital en PDF
-(`assets/codigo-sintetico-es.pdf`).
+(muestra gratuita en `assets/codigo-sintetico-es-muestra.pdf`). La edición completa del Libro 1 se distribuye en las tiendas: https://codigosintetico.specsolid.com
 
 ## Licencia
 
